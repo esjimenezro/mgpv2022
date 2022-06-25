@@ -23,3 +23,5 @@ A continuación les dejo una lista de videos recomendados acerca de los temas qu
 
 
 9. [Regresión Logística Bayesiana con PyMC3](https://www.youtube.com/watch?v=W-lqgS4IdaA)
+
+10. [Scikit-learn docs of Bayesian Regression](https://scikit-learn.org/stable/modules/linear_model.html#bayesian-regression)
